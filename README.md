@@ -8,8 +8,8 @@ Este repositorio contiene dos scripts útiles para administrar dispositivos UniF
 
 | Archivo      | Descripción                                                               |
 | ------------ | ------------------------------------------------------------------------- |
-| `update.py`  | Script para actualizar dispositivos UniFi por SSH a la última versión.    |
-| `adoptar.py` | Script para forzar la adopción de dispositivos en una controladora UniFi. |
+| `update.py`  | Script para actualizar dispositivos UniFi por SSH a la  versión seleccionada.    |
+| `adoptar.py` | Script para la adopción de dispositivos en una controladora UniFi. |
 | `ip_sw.txt`  | Lista de direcciones IP de los dispositivos a gestionar.                  |
 
 ---
